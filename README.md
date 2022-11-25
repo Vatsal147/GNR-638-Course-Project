@@ -6,8 +6,8 @@ This project team members are:
 3) Tanal Patel: 		190110096
 4) Nikhil Kalwani: 		190100081 
 
-Paper Title: Deep Image Prior 
-Paper Link: https://doi.org/10.1007/s11263-020-01303-4
+- Paper Title: Deep Image Prior 
+- Paper Link: https://doi.org/10.1007/s11263-020-01303-4
 
 The mentioned results in the PPT can be obtained as follows:
 - There are three tasks implemented each having their own .ipynb file on the Github page in the link mentioned below. These are denoising.ipynb, inpainting.ipynb and super_resolution.ipynb. Open these files in colab using the link mentioned below and then they can be directly run to obtain the required results
